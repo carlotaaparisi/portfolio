@@ -691,6 +691,9 @@ textarea.form-control {
 }
 
 @media (max-width: 480px) {
+	body {
+		margin-top: 20px;
+	}
 
 	h1 {
 		font-size: 34px;
