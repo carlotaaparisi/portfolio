@@ -18,6 +18,11 @@ img {
 	height: auto;
 }
 
+#logoHead {
+        width: 68px;
+        height:50px;
+}
+
 a {
 	color: #E7746F;
 }
